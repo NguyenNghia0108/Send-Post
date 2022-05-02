@@ -5,7 +5,7 @@ public class Send_parcel {
 	Shipper shipper = new Shipper();
 	public void Get_charge_staff_money() {}
 	public void Get_packaging_cost() {}
-	public void Get_adress() {
+	public void Get_address() {
 		System.out.println("Getting adress...");
 	}
 	public void Calculate_cost() {
