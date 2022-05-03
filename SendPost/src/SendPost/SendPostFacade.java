@@ -24,7 +24,7 @@ public class SendPostFacade {
 		packaging.Call_cashier();
 	}
 	private void Send_parcel() {
-		send_parcel.Get_adress();
+		send_parcel.Get_address();
 		send_parcel.Calculate_cost();
 		send_parcel.Call_cashier();
 		send_parcel.Call_shipper();
