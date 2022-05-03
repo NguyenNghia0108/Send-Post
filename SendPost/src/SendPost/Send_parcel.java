@@ -1,6 +1,7 @@
 package SendPost;
 
 public class Send_parcel {
+	
 	Cashier cashier = new Cashier();
 	Shipper shipper = new Shipper();
 	public void Get_charge_staff_money() {}
